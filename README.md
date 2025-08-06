@@ -1,13 +1,10 @@
-
-<div  >
+<div >
   <div align="left">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucasmenezes08.Lucasmenezes08&"  />
   </div>
   
   ###
-  
   <br clear="both">
-  
   <h1 align="center">Olá 👋,eu sou Lucas</h1>
   
   ###
@@ -25,14 +22,11 @@
   <br clear="both">
   
   <div align="center">
-    <img height="400" width="700" src="https://i.pinimg.com/originals/81/c1/82/81c1824fa9afc09de7a19dcdedb94026.gif"  />
+    <img height="400" width="750" src="https://i.pinimg.com/originals/81/c1/82/81c1824fa9afc09de7a19dcdedb94026.gif"  />
   </div>
   
   ###
-  
-  <br clear="both">
-  
-  <h5 align="center">" I feel trapped, only free to expand within the limits. " - Motoko Kusanagi</h5>
+  <h4 align="center">" I feel trapped, only free to expand within the limits. " - Motoko Kusanagi</h4>
   
   ###
   
@@ -61,7 +55,6 @@
   </div>
   
   ###
-  
   <br clear="both">
   
   <div align="center">
@@ -72,9 +65,4 @@
   
   ###
   
-  <br clear="both">
-  
-  <img src="https://raw.githubusercontent.com/Lucasmenezes08/Lucasmenezes08/output/snake.svg" alt="Snake animation" />
-  
-  ###
 </div>
