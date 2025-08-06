@@ -22,7 +22,7 @@
   <br clear="both">
   
   <div align="center">
-    <img height="400" width="750" src="https://i.pinimg.com/originals/81/c1/82/81c1824fa9afc09de7a19dcdedb94026.gif"  />
+    <img height="300" width="650" src="https://i.pinimg.com/originals/81/c1/82/81c1824fa9afc09de7a19dcdedb94026.gif"  />
   </div>
   
   ###
