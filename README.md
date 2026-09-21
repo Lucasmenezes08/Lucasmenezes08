@@ -12,12 +12,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 data-importer="text" align="left">Atualmente</h3>
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
